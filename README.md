@@ -1,9 +1,9 @@
-#FFF About
+# FFF About
 
 A basic about page built with React, LESS, and react-bootstrap
 
 
-# Installation
+## Installation
 
 1. `yarn`
 2. `yarn start`
